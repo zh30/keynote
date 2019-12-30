@@ -1,6 +1,6 @@
-# PowerPoint
+# Keynote
 
-日常PPT文件分享。
+Daily accumulation sharing.
 
 # Usage
 
